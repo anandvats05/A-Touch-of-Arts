@@ -1,5 +1,5 @@
 <h1 align="center">
-    SHOPCART: Ecommerce Site
+    A-Touch-of-Arts: Ecommerce Site
 </h1>
 
 <h3 align="center">
@@ -15,15 +15,15 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 
 # About
 
-ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
+A-Touch-of-Arts is an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
 
 ## Features
 
-- **User Registration:** ShopCart allows users to register as customers or sellers, enabling a tailored shopping experience.
+- **User Registration:** A-Touch-of-Arts allows users to register as customers or sellers, enabling a tailored shopping experience.
 
 - **Cart System:** Customers can add products to their cart for easy checkout. The cart allows them to review and manage their selections before completing the purchase.
 
-- **Product Search:** ShopCart offers a search functionality where customers can find products by name or browse through categories such as Electronics, Clothes, Kitchen, and more.
+- **Product Search:** A-Touch-of-Arts offers a search functionality where customers can find products by name or browse through categories such as Electronics, Clothes, Kitchen, and more.
 
 - **Reviews and Ratings:** Customers can leave reviews and ratings (out of 5) for products they've purchased, providing valuable feedback for sellers and building trust within the community.
 
